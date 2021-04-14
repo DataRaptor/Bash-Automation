@@ -21,4 +21,9 @@ xinput -set-prop "A4Tech USB Mouse" "Coordinate Transformation Matrix" 0.550000,
 //Confortable
 xinput set-prop "A4Tech USB Mouse" "libinput Accel Speed" "0.00000" && xinput -set-prop "A4Tech USB Mouse" "Coordinate Transformation Matrix" 0.2600000, 0.000000, 0.000000, 0.000000, 0.265000, 0.000000, 0.000000, 0.000000, 1.000000
 
+// Better
+xinput set-prop "A4Tech USB Mouse" "libinput Accel Speed" "0.70000" && xinput -set-prop "A4Tech USB Mouse" "Coordinate Transformation Matrix" 0.160000, 0.000000, 0.000000, 0.000000, 0.17600, 0.000000, 0.000000, 0.000000, 1.000000
+
+// Better 
+xinput set-prop "A4Tech USB Mouse" "libinput Accel Speed" "0.90000" && xinput -set-prop "A4Tech USB Mouse" "Coordinate Transformation Matrix" 0.140000, 0.000000, 0.000000, 0.000000, 0.15000, 0.000000, 0.000000, 0.000000, 1.000000
 
