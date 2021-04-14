@@ -1,3 +1,8 @@
 Install Gnome Extention
 
 Install Animation Tweaks Extention
+
+
+
+disable all anim
+gsettings set org.gnome.desktop.interface enable-animations false
