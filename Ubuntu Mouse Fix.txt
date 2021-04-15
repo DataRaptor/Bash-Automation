@@ -31,7 +31,7 @@ xinput set-prop "A4Tech USB Mouse" "libinput Accel Speed" "0.90000" && xinput -s
 
 
 // Best
-mouse.sh    etc/dconf/profile/mouse.sh     // Run at logon
+mouse.sh    etc/profile.d/mouse.sh     // Run at logon
 ----------------------------------------------------------------
 // Super Accurate   (but little uncomfortable) (little slow)
 xinput set-prop "A4Tech USB Mouse" "libinput Accel Speed" "0.90000" xinput -set-prop "A4Tech USB Mouse" "Coordinate Transformation Matrix" 0.147000, 0.000000, 0.000000, 0.000000, 0.15600, 0.000000, 0.000000, 0.000000, 1.000000
