@@ -93,6 +93,9 @@ gsettings set org.gnome.shell enabled-extensions ['blur-my-shell@aunetx', 'disab
 gsettings set org.gnome.shell disable-user-extensions false
 
 
+# Hide mounted drive from sidebar
+gsettings set org.gnome.shell.extensions.dash-to-dock show-mounts false
+
 
 
 
