@@ -208,16 +208,8 @@ sudo renice -n -20 -p $pval
 exit 0
 ```
 
-### Mouse accilaration fix
+### Mouse Acceleration Fix
 ```bash
-// Best
-mouse.sh    etc/profile.d/mouse.sh     // Run at logon
-----------------------------------------------------------------
-// Super Accurate   (but little uncomfortable) (little slow)
-xinput set-prop "A4Tech USB Mouse" "libinput Accel Speed" "0.90000" xinput -set-prop "A4Tech USB Mouse" "Coordinate Transformation Matrix" 0.147000, 0.000000, 0.000000, 0.000000, 0.15600, 0.000000, 0.000000, 0.000000, 1.000000
-xinput -set-prop "A4Tech USB Mouse" "Coordinate Transformation Matrix" 0.145000, 0.000000, 0.000000, 0.000000, 0.15300, 0.000000, 0.000000, 0.000000, 1.000000
-
-// Best of the Best    ******* [[ FINAL ]] *******
 xinput set-prop "A4Tech USB Mouse" "libinput Accel Speed" "0.90000" 
 xinput -set-prop "A4Tech USB Mouse" "Coordinate Transformation Matrix" 0.146000, 0.000000, 0.000000, 0.000000, 0.15500, 0.000000, 0.000000, 0.000000, 1.000000
 ```
