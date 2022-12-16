@@ -1,1 +1,4 @@
-# Automates Software installation and system configuration in ubuntu
+# Bash Automation
+## Ubuntu automation
+
+[a relative link](Ubuntu/New Install/essential_apps.sh)
