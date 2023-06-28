@@ -1,0 +1,16 @@
+sudo apt-get update
+sudo apt-get install build-essential
+
+
+sudo apt install python3 pip
+
+
+sudo apt-get install python3-virtualenv
+virtualenv base
+source base/bin/activate
+setx PATH basevirtualenv\Scripts;%PATH%
+
+
+
+
+
