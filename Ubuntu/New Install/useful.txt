@@ -18,6 +18,8 @@ sudo apt-get install apt-fast
 systemctl suspend
 
 
+
+
 Hotkeys:
 Alt + Q : Close
 Alt + A : Minimize
