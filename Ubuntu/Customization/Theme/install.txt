@@ -1,2 +1,10 @@
 sudo apt-get install gnome-shell-extensions
 sudo apt-get install gnome-tweaks
+
+
+
+There are two places the themes files can be placed:
+
+~/.themes : You may have to create this folder in your home directory if it doesn’t exist. The themes placed here will be available only to you (the logged in user)
+/usr/share/themes: The themes put in this folder will be available to all the users on your system. You need to be root to put files in this folder.
+
