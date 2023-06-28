@@ -8,7 +8,7 @@ sudo apt install python3 pip
 sudo apt-get install python3-virtualenv
 virtualenv base
 source base/bin/activate
-To Set Default: add "source base/bin/activate" in .bashrc file in home folder
+To Set Default: add "source ~/base/bin/activate" in .bashrc file in home folder
 
 
 
