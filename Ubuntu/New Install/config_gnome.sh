@@ -30,7 +30,7 @@ sudo chmod +x ./.mousewheel.sh
 # Install New File 
 touch ~/Templates/TextFile.txt
 touch ~/Templates/ShellScript.sh
-
+touch ~/Templates/PythonScript.py
 
 
 # Install Extentions
