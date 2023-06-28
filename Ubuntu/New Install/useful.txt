@@ -14,8 +14,8 @@ sudo apt-get install apt-fast
 
 
 
-
-
+// Sleep  F12
+systemctl suspend
 
 
 
