@@ -18,7 +18,14 @@ sudo apt-get install apt-fast
 systemctl suspend
 
 
-
-
-
-
+Hotkeys:
+Alt + Q : Close
+Alt + A : Minimize
+Alt + E : Toggle Maximize
+Alt + C : Maximize on Left
+Alt + V : Maximize on Right
+Alt + W : Maximize Vertically
+Alt + D : Lower window below other window
+Alt + S : Play / Pause
+Alt + Z : Vol -
+Alt + X : Vol +
