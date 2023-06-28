@@ -29,3 +29,12 @@ Alt + D : Lower window below other window
 Alt + S : Play / Pause
 Alt + Z : Vol -
 Alt + X : Vol +
+
+Sup + A : Show all app
+
+Alt + 1 : Browser
+Alt + 2 : File
+Alt + 3 : Terminal
+Alt + 4 : Calculator
+
+
