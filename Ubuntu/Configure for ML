@@ -11,6 +11,8 @@ source base/bin/activate
 To Set Default: add "source ~/base/bin/activate" in .bashrc file in home folder
 
 
-
+# Install spyder
+pip install spyder numpy scipy pandas matplotlib sympy cython
+pip install --upgrade spyder
 
 
