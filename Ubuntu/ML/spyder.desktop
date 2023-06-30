@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Spyder
+Exec=/bin/bash -c '/home/$USER/ml/bin/spyder'
+Icon=/home/pavel/Desktop/.spyder.png
+
