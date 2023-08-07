@@ -17,4 +17,4 @@ pip install --upgrade spyder
 
 
 pip install jupyterlab
-
+pip install jupyterlab-horizon-theme
