@@ -16,3 +16,5 @@ pip install spyder numpy scipy pandas matplotlib sympy cython
 pip install --upgrade spyder
 
 
+pip install jupyterlab
+
